@@ -1,4 +1,4 @@
-# Jeu de stratégie 2D - Projet POO 2024
+# Jeu_Python_2D
 
 ## Présentation du projet
 
